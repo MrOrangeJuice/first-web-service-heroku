@@ -33,7 +33,7 @@ const errorPage = `
   </head>
   <body>
     <h1>404 - File Not Found!</h1>
-    <p>Check your URL, or your typing!!</p>
+    <p>Check your URL, or your typing!</p>
     <p>:-0</p>
   </body>
 </html>`;
